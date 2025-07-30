@@ -12,7 +12,7 @@ Este es mi portafolio digital, desarrollado como parte de una asignación univer
 ## Enlaces
 
 - 💻 Sitio en Vercel: [https://portafolio-harvin.vercel.app](https://portafolio1-lime.vercel.app/)
-- 📁 Repositorio GitHub: [https://github.com/tu_usuario/portafolio-harvin](https://github.com/6Harvin9/Portafolio1/tree/Portafolio)
+- 📁 Repositorio GitHub: [https://github.com/tu_usuario/portafolio-harvin](https://github.com/6Harvin9/Portafolio1.git)
 
 ## Autor
 Harvin Samir Berroa Celesten - Matrícula: 2021123456
